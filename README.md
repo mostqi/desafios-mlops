@@ -2,7 +2,7 @@
 
 Segue abaixo o desafio a ser realizado pelos candidatos à vaga de MLOps Engineer.
 
-- [Desafio 02 - MLOps](./desafio-02/README.md)
+- [Desafio 01 - MLOps](./desafio-01/README.md)
 
 
 ## Instruções
